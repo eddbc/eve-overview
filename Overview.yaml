@@ -588,6 +588,7 @@ presets:
         - 1548
         - 1972
         - 2020
+        - 4594
 - - '# fleet titans'
   - - - alwaysShownStates
       - - 11
@@ -780,6 +781,7 @@ presets:
         - 4035
         - 4036
         - 4037
+        - 4594
 - - '% solo brackets'
   - - - alwaysShownStates
       - []
@@ -1646,6 +1648,7 @@ presets:
         - 4035
         - 4036
         - 4037
+        - 4594
 - - '# friendly tackle'
   - - - alwaysShownStates
       - - 11
