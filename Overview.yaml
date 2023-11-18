@@ -3050,9 +3050,9 @@ shipLabels:
     - - italic
       - 0
     - - post
-      - '&lt;color=0xffff2a19&gt;&lt;fontsize=12&gt;'
+      - '<color=0xffff2a19><fontsize=12>'
     - - pre
-      - '&lt;color=0xff00FFFF&gt;&lt;fontsize=12&gt; '
+      - '<color=0xff00FFFF><fontsize=12> '
     - - state
       - 1
     - - type
