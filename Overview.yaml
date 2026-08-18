@@ -199,15 +199,26 @@ presets:
         - 1305
         - 1404
         - 1406
+        - 1408
         - 1527
         - 1534
         - 1538
         - 1657
+        - 1876
+        - 1924
         - 1972
         - 2001
+        - 2015
+        - 2016
+        - 2017
         - 2020
         - 4093
         - 4594
+        - 4644
+        - 4744
+        - 4902
+        - 5087
+        - 5120
 - - '# AT - Clear'
   - - - alwaysShownStates
       - []
@@ -402,6 +413,11 @@ presets:
         - 4137
         - 4477
         - 4499
+        - 4644
+        - 4736
+        - 4744
+        - 4810
+        - 4913
 - - '# solo'
   - - - alwaysShownStates
       - []
@@ -530,6 +546,9 @@ presets:
         - 4644
         - 4736
         - 4744
+        - 4902
+        - 5087
+        - 5120
 - - '# fleet [no neutrals]'
   - - - alwaysShownStates
       - []
@@ -602,6 +621,9 @@ presets:
         - 1972
         - 2020
         - 4594
+        - 4902
+        - 5087
+        - 5120
 - - '# fleet titans'
   - - - alwaysShownStates
       - - 11
@@ -711,6 +733,9 @@ presets:
         - 4079
         - 4093
         - 4594
+        - 4902
+        - 5087
+        - 5120
 - - '# fleet members'
   - - - alwaysShownStates
       - - 11
@@ -795,6 +820,9 @@ presets:
         - 4036
         - 4037
         - 4594
+        - 4902
+        - 5087
+        - 5120
 - - '% solo brackets'
   - - - alwaysShownStates
       - []
@@ -1343,6 +1371,9 @@ presets:
         - 4713
         - 4736
         - 4745
+        - 4902
+        - 5087
+        - 5120
 - - '# gtfo'
   - - - alwaysShownStates
       - []
@@ -1603,6 +1634,7 @@ presets:
         - 863
         - 864
         - 1023
+        - 1159
         - 1537
         - 1548
         - 1652
@@ -1872,6 +1904,9 @@ presets:
         - 4093
         - 4594
         - 4644
+        - 4902
+        - 5087
+        - 5120
 - - '# rekt'
   - - - alwaysShownStates
       - []
@@ -1895,6 +1930,7 @@ presets:
         - 1250
         - 1297
         - 1548
+        - 4088
 - - '# solo +extras'
   - - - alwaysShownStates
       - []
@@ -2185,6 +2221,7 @@ presets:
         - 4636
         - 4637
         - 4638
+        - 4644
         - 4647
         - 4648
         - 4649
@@ -2196,6 +2233,10 @@ presets:
         - 4655
         - 4656
         - 4673
+        - 4744
+        - 4902
+        - 5087
+        - 5120
 - - '# fleet caps'
   - - - alwaysShownStates
       - - 11
@@ -2239,6 +2280,8 @@ presets:
         - 1538
         - 1548
         - 2020
+        - 4594
+        - 5120
 - - '# fighters, support'
   - - - alwaysShownStates
       - []
@@ -2636,6 +2679,7 @@ presets:
         - 2017
         - 2020
         - 4594
+        - 5120
 - - '# cruisers'
   - - - alwaysShownStates
       - []
@@ -2669,6 +2713,7 @@ presets:
         - 1548
         - 1972
         - 2020
+        - 5087
 - - '# blue titans'
   - - - alwaysShownStates
       - - 11
@@ -2716,18 +2761,22 @@ presets:
         - 90
         - 361
         - 485
+        - 513
         - 547
         - 659
         - 863
         - 864
         - 883
         - 897
+        - 902
+        - 941
         - 1149
         - 1538
         - 1548
         - 2020
         - 4093
         - 4594
+        - 5120
 - - '# bubbles'
   - - - alwaysShownStates
       - []
@@ -2750,6 +2799,7 @@ presets:
         - 894
         - 1149
         - 1548
+        - 4088
 - - '# mjdessies'
   - - - alwaysShownStates
       - []
@@ -2888,6 +2938,9 @@ presets:
         - 2020
         - 4093
         - 4594
+        - 4902
+        - 5087
+        - 5120
 - - '# *'
   - - - alwaysShownStates
       - []
@@ -3308,6 +3361,7 @@ presets:
         - 4636
         - 4637
         - 4638
+        - 4644
         - 4647
         - 4648
         - 4649
@@ -3319,6 +3373,10 @@ presets:
         - 4655
         - 4656
         - 4673
+        - 4744
+        - 4902
+        - 5087
+        - 5120
 - - '# clear ships'
   - - - alwaysShownStates
       - []
@@ -3386,6 +3444,9 @@ presets:
         - 2020
         - 4093
         - 4594
+        - 4902
+        - 5087
+        - 5120
 - - '# dscan - no cits'
   - - - alwaysShownStates
       - []
@@ -3456,6 +3517,9 @@ presets:
         - 2020
         - 4093
         - 4594
+        - 4902
+        - 5087
+        - 5120
 - - '# bombers'
   - - - alwaysShownStates
       - []
@@ -3620,7 +3684,7 @@ tabSetup:
     - - name
       - '<fontsize=12><color=0xff3399FF><b>: Capitals :</color></fontsize></b>'
     - - overview
-      - '# supers'
+      - '# capitals'
 - - 7
   - - - bracket
       - '% fleet lag brackets'
